@@ -7,7 +7,7 @@ Diseño de Login + registración con Python orientado a objetos, Tkinter y SQLit
 *[LinkedIn](https://www.linkedin.com/in/benjamin-assennato-00ab80240/)
 
 ## Ver ejemplo
-(https://benjaminass.github.io/login/)
+([https://benjaminass.github.io/login/])
 
 ## Instalación
 
